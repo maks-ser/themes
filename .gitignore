@@ -1,0 +1,6 @@
+*.zip
+/Fado/fadocompany-main/wp-content/plugins/*
+.gitattributes
+.idea/
+**/.idea/
+**/plugins/
